@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hybrid-entropy-399823",
+  "private_key_id": "f4a5a77b41288755baea2a61601b25dc0484e5d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcSWzzZK5WnJ1/\nVxT4RTFGa8XWv3N3jB6Jei6TNZTlpCxi/wMc19wK4BKJqwlMz7RmIwlftf+iCHbx\nVCvRcPC3oUGnO79j5WlHu3Gc3jbB0+x1C4AmfPtC0Y5OMvLmV9YWVePC+VuZKcnY\nwK6xK+/cg7cYeJUdMD3+VupcwR9ftHLjtwYVCpajRkz4jKbkMBdAzk45F/RNUN9X\nRo9Ju9lsB3Qp45u3DyerOhA84edK9BQ5zEaMx5UE9g1FkAr83zIM++nkj2qUaN4N\nY0kxTz8DIEaQ/UWmoBqkSKxth8GA5Mr1uT9LH5tFzU/aZcjy/tYOzvUnoPeo4KJR\nKJmwUZ1fAgMBAAECggEAI8GqtNfvBocLIkbdKVl4i0Y7dEVaSu7hwWNQQ7vgTJA5\nVjkE5Sh9V/88HcA3VRJSkCZNbg2UONW9PM9IAjSeFih6MtjbaFiDc3h6aMHsdcoz\nqQyyA01T2ZTl+k0sfqAw/iojO3GPYTgBGApasM6Bc4lRGItGJQPreX6GhyzKg2rx\nPzqH0HRoAq7cq6PqCS5l/4RMzRmbNUkyp2hXQJfRBR+EiZDMbSzM5BOtnLaJ8toW\nGuUoyxH2uP/sr4GDy5msafuySdXBveCjvOIId4JS4jpqDTNNjKhRjTM7sGGBfX4b\nu+ttysocuVDr7wDS+zPszoSd3FD0bzaMlnvYkF7QGQKBgQD68G8qHmRfxWDyIS1r\nas78CaezfXOtdzFi48qII41r+UtZJA3Nbdpm03MSV0+8WzqSI1nW0JTOaOtDirpT\nKe8xJpHQe0jQvY+pqR9z0JhMwIlg+p2/q7KwPfqsEmNRx7ckVU4ZfFUcD3sf5yPr\nKmdLjYGDpQ46CjvkjlKP5iTHJwKBgQDgury421/PEGU+ewdCHy9iM4vADWB6YNot\nHTclWS57IGlOTrM4cxb/0Oi5976VeqKipvOHZcleLA9V+oWtsJfqxLqO6Hh0L63u\n07tWDXd1EH+3J7aoKmD7pdZswRnsT+pY9srH9wGJkeWn65o3sKAbo4ZdOpVB6tNq\njB8svz6bCQKBgQCLxNW2GP2BVnfcBVy+AtzNBzewQsTmrogEc6pAT8Uaid1NBkbl\n0DUgps/mPFl+KTYjZatJeh4YJdo8YY3MeoPu1XPMMo7pLVxSfI+3O01JGsiqCo1I\n0AKUJcF0jD1jtKCujREWIulo2rqSl3SrLJAiRewIfivBaifX8unLmr2LawKBgQCE\nqNdFDIMHObd6ZafIOZ6ACsuhaIQeWdQRM6DdFEMi/eQMDNsxJIdcJddsCDpiBQ3C\nlGlH8ScoxzuaVpPZD1juholWWRbaB1dWl3iL+NEessmhtfjWVoX/p0rn0inaXOaK\n88yKtF4c9poqQSM9Yq9xAVwM5ss7KUL6L5MrmA19+QKBgHesyX0b4pinaAQ9nquk\nnhnlVUAUk3ZGztyzfWAPJFhWtRXscgf1ksK33BEPF0pgw8Jka9/EpDZyaqrognLY\neWIpucH5G7Ez3AD6SABAJFXBi4vOrpyaZJRBH2KBtEck43VM5+pozDE/tAoJCsa8\nFsa7gcHtXKGTtYlyrkIctd3v\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query-admin@hybrid-entropy-399823.iam.gserviceaccount.com",
+  "client_id": "101676838251196231823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query-admin%40hybrid-entropy-399823.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
