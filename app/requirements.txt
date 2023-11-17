@@ -1,0 +1,8 @@
+spotipy
+flask
+pandas
+google.cloud
+google-auth
+pandas_gbq
+flask_session
+Flask-Session
