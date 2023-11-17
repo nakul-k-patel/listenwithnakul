@@ -1,0 +1,29 @@
+name: Deploy to GCP VM and Rerun App
+
+on:
+  push:
+    branches:
+      - main # Adjust the branch name as needed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Set up Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v0.3.0
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+          export_default_credentials: true
+          
+      - name: Copy code to VM
+        run: |
+          gcloud compute scp --recurse ./path/to/your/code <username>@<vm-instance-name>:/path/to/destination --zone=<zone>
+          
+      - name: SSH into VM and restart app
+        run: |
+          gcloud compute ssh <username>@<vm-instance-name> --zone=<zone> --command="cd /path/to/your/code && ./start_script.sh"
