@@ -15,7 +15,7 @@ import pickle
 scope = 'user-read-private user-top-read playlist-read-private playlist-read-collaborative playlist-modify-public playlist-modify-private'
 client_id = '4ae185ed0ffc45739137a872c94f1623' 
 client_secret = '54f73d9abd314200a24d52bd54f52a05'  
-redirect_uri = 'http://35.224.240.230:8080/callback/' 
+redirect_uri = 'http://34.172.69.245:8080/callback/' 
 
 # BigQuery credentials
 key_path = 'keys/hybrid-entropy-399823-f4a5a77b4128.json'  
